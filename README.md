@@ -1,4 +1,4 @@
-# SQL_project
+# SQL_project : reference Readme file ( will add my content once the project is done )
 # SQL Project: Music Store Analysis
 
 Read the full detailed article <a href="https://avishek-choudhary.github.io/projects/Music%20Store.html">here</a>.
